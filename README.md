@@ -40,3 +40,5 @@ For other methods: check out the magical domain `contacts.elepover.com`.
     - macOS (Yosemite - Catalina): very elegant
     - macOS (Bug Sir (and possibly higher)): not so great, I mean disappointing
 - I'm not single! ~~(you bet)~~
+
+### 👇 And take a look at the repositories that I contributed to
