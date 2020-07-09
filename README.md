@@ -14,7 +14,7 @@ Let me introduce him for you, he's just a:
 | 🎮 Player of [osu!](https://osu.ppy.sh/users/13147976) | and many other rhythm games |
 | 🎵 Lover of music | especially the inspiring kind |
 | 🌈 Member of the LGBT family | right at the 2nd character |
-| 😆 [Believer](https://www.youtube.com/watch?v=DYj40-cZ5vI) | that things will get better |
+| 😆 [Believer](https://www.youtube.com/watch?v=DYj40-cZ5vI) | _that things will get better_ |
 
 Kidding. Just a 🐦 pigeon.
 
@@ -32,13 +32,14 @@ For other methods: check out the magical domain `contacts.elepover.com`.
 - I like eating 🥚s, especially: 🍳.
 - To me, different design systems are like:
   - **Material (original, Google)**: **absolutely the BEST of all**
-  - **Material (since Android 9)**: Jesus, this is **NOT** design
+  - **Yet another Material (since Android 9)**: Jesus, this is **NOT** design
   - **Fluent (Microsoft)**: great concept, $h!t implementation
   - **Team Fruity the Fruit (I mean the Cupertino one)**:
     - best at consistency (apart from MD)
     - iOS (7+) & iPadOS: overall good with great animations
+      - Just a bit Android-y now
     - macOS (Yosemite - Catalina): very elegant
     - macOS (Bug Sir (and possibly higher)): not so great, I mean disappointing
-- I'm not single! ~~(you bet)~~
+- I'm **not** single! ~~(you bet)~~
 
 ### 👇 And take a look at the repositories that I contributed to
