@@ -16,6 +16,8 @@ Let me introduce him for you, he's just a:
 | 🌈 Member of the LGBT family | right at the 2nd character |
 | 😆 [Believer](https://www.youtube.com/watch?v=DYj40-cZ5vI) | that things will get better |
 
+Kidding. Just a 🐦 pigeon.
+
 ### Reach me at
 
 Telegram: [@elepover_pmbot](https://t.me/elepover_pmbot) ~~**_(powered by pmcenter)_**~~
