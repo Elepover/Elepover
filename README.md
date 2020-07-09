@@ -10,7 +10,7 @@ Let me introduce him for you, he's just a:
 | 🛠 Developer of [pmcenter](https://github.com/Elepover/pmcenter) | and a _super secret project_ |
 | 🌐 Website maintainer | who runs [elepover.com](https://elepover.com) and many other sites |
 | 💻 User of Android & Windows 10 | Linux ~~(Arch for sure)~~, iOS and macOS|
-| ⚙ Coder using Visual Studio, IntelliJ series | KDevelop and Xcode |
+| ⚙ Coder using Visual Studio, IntelliJ family | KDevelop and Xcode |
 | 🎮 Player of [osu!](https://osu.ppy.sh/users/13147976) | and many other rhythm games |
 | 🎵 Lover of music | especially the inspiring kind |
 | 🌈 Member of the LGBT family | right at the 2nd character |
