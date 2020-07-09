@@ -38,6 +38,7 @@ For other methods: check out the magical domain `contacts.elepover.com`.
     - best at consistency (apart from MD)
     - iOS (7+) & iPadOS: overall good with great animations
       - Just a bit Android-y now
+      - I mean, __ᴺᴼᵀ Android__
     - macOS (Yosemite - Catalina): very elegant
     - macOS (Bug Sir (and possibly higher)): not so great, I mean disappointing
 - I'm **not** single! ~~(you bet)~~
