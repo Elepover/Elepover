@@ -20,27 +20,8 @@ Kidding. Just a 🐦 pigeon.
 
 ### Reach me at
 
-Telegram: [@elepover_pmbot](https://t.me/elepover_pmbot) ~~**_(powered by pmcenter)_**~~
-
-GitHub: (what?)
+GitHub: creating issues at this README repo.
 
 For other methods: check out the magical domain `contacts.elepover.com`.
-
-### Fun facts
-
-- At best, I can get MM rank at around `<pretending this="purple">`CHAOS 14`</pretending>` beatmaps in Cytus II.
-- I like eating 🥚s, especially: 🍳.
-- To me, different design systems are like:
-  - **Material (original, Google)**: **absolutely the BEST of all**
-  - **Yet another Material (since Android 9)**: Jesus, this is **NOT** design
-  - **Fluent (Microsoft)**: great concept, $h!t implementation
-  - **Team Fruity the Fruit (I mean the Cupertino one)**:
-    - best at consistency (apart from MD)
-    - iOS (7+) & iPadOS: overall good with great animations
-      - Just a bit Android-y now
-      - I mean, __ᴺᴼᵀ Android__
-    - macOS (Yosemite - Catalina): very elegant
-    - macOS (Bug Sir (and possibly higher)): not so great, I mean disappointing
-- I'm **not** single! ~~(you bet)~~
 
 ### 👇 And take a look at the repositories that I contributed to
